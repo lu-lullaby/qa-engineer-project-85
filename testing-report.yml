@@ -21,7 +21,7 @@
 
 - summary: |
     Проверка открытия гайда с описанием функционала в созданной игре
-  status: fail - ТК НЕАДЕКВАТНО РАБОТАЕТ КНОПКА ЗАКРЫТИЯ
+  status: fail
 
 - summary: |
     Проверка выбора языка описания задания игры
@@ -100,8 +100,8 @@
   status: pass
 
 - summary: |
-    Проверка возможности просмотра личного рейтига пользователя
-  status: fail - А ТОЧНО ЛИ ЭТО ФЕЙЛ???
+    Проверка возможности просмотра личного рейтинга пользователя
+  status: fail
 
 - summary: |
     Проверка мобильной версии Codebattle
@@ -110,9 +110,3 @@
 - summary: |
     Проверка совместимости сайта Codebattle с последними версиями браузеров Microsoft Edge, Internet Explorer, Mozilla Firefox, Google Chrome, Opera, Safari
   status: pass
-
-
-
-
-https://github.com/hexlet-codebattle/codebattle/issues
-https://github.com/hexlet-codebattle/codebattle/issues/2153
