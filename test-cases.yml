@@ -8,7 +8,7 @@
   test-data: |
     no data
   steps:
-    Нажать кнопку "Try simple battle"
+    - Нажать кнопку "Try simple battle"
   expected-result: |
     Открывается полноценная игра с соперником-ботом, без требования авторизации пользователя
 
@@ -507,7 +507,7 @@
   test-data: |
     no data
   steps:
-    Нажать на вкладку "Completed games"
+    - Нажать на вкладку "Completed games"
   expected-result: |
     Отображается список завершённых игр пользователя
 
@@ -520,7 +520,7 @@
   test-data: |
     no data
   steps:
-    Нажать на "Show" напротив любой из завершённых игр
+    - Нажать на "Show" напротив любой из завершённых игр
   expected-result: |
     Открывается страница завершённой игры пользователя с возможностью просмотра видеозаписи
 
@@ -533,7 +533,7 @@
   test-data: |
     no data
   steps:
-    Нажать на "▶"
+    - Нажать на "▶"
   expected-result: |
     Воспроизводится видеозапись завершённой игры
 
@@ -546,6 +546,6 @@
   test-data: |
     no data
   steps:
-    Нажать на "Create new task"
+    - Нажать на "Create new task"
   expected-result: |
     Открывается страницв создания новой задачи для Codebattle
