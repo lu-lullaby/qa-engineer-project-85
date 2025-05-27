@@ -101,7 +101,7 @@
 
 - summary: |
     Проверка возможности просмотра личного рейтинга пользователя
-  status: fail
+  status: fail (вот issues, там всё время был один и тот же rank (Должен ли он тогда вообще меняться? Если нет, тогда не баг, конечно) - https://github.com/hexlet-codebattle/codebattle/issues/2153)
 
 - summary: |
     Проверка мобильной версии Codebattle
